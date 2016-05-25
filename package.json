@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "alt": "0.18.2",
+    "alt": "0.18.4",
     "babel-core": "6.4.5",
     "babel-loader": "6.2.1",
     "css-loader": "0.23.1",
