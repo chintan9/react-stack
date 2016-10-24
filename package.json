@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "alt": "0.18.2",
-    "babel-core": "6.4.5",
+    "babel-core": "6.18.0",
     "babel-loader": "6.2.1",
     "css-loader": "0.23.1",
     "firebase": "3.0.3",
